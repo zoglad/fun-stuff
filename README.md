@@ -1,29 +1,17 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+To use DevOps bulshit tools, do the following:
 
-### What is this repository for? ###
+run the following command:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+```
+cd devops-bulshit
+echo "source $(pwd)/devops-bulshit-setup.sh" >> $HOME/.zshrc
+```
 
-### How do I get set up? ###
+# The current available tools
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Sounds
+======
+* too
+* koko
