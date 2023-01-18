@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/bin/bash +x
 
-SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+SCRIPT_DIR=$(dirname -- "$0")
 RESOURCE_DIR="$SCRIPT_DIR/resources"
 
 alias too="afplay $RESOURCE_DIR/too-too.mp3"
