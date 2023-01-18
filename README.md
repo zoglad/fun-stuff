@@ -1,6 +1,6 @@
 # README #
 
-To use DevOps bulshit tools, do the following:
+To use DevOps bullshit tools, do the following:
 
 run the following command:
 
