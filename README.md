@@ -16,3 +16,5 @@ Sounds
 * too
 * koko
 * sakit
+* kelev
+* boker
